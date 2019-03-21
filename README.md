@@ -1,15 +1,14 @@
 # Urdu afsana nigar author disambiguation
 ## Data
-Afasanas of 5 authors are being used
+Afasanas of 5 authors are being used, about 20 afsanas of each author being used
 1. Devendra Satyarthi
 2. Manto
 3. Premchand
 4. Qurratulain hyder 
 5. Rajinder singh bedi
 A web crawler is being used to get the the data from web:
-(https://github.com/FahadQurashi49/scraper)
+(https://github.com/FahadQurashi49/scraper) 
 
-about 20 afsanas of each author being used 
 ##Model Used
 Bi-gram model and Tri-gram model of urdu words combined
 ## Feature Vectors
